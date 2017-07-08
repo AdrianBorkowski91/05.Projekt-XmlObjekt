@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<company>
+		<staff id="1" category="employee">
+			<firstname>Adrian</firstname>
+			<lastname>Borkowski</lastname>
+			<dateofbirth>1991-02-20</dateofbirth>
+			<salary>10000.99</salary>
+		</staff>
+		<staff id="2" category="employee">
+			<firstname>Kasia</firstname>
+			<lastname>Malinowska</lastname>
+			<dateofbirth>1993-01-22</dateofbirth>
+			<salary>8500</salary>
+		</staff>
+		<staff id="3" category="employee">
+			<firstname>Ania</firstname>
+			<lastname>Bobrowska</lastname>
+			<dateofbirth>1998-02-20</dateofbirth>
+			<salary>6700.90</salary>
+		</staff>
+		<staff id="4" category="boss">
+			<firstname>Kacper</firstname>
+			<lastname>Misiak</lastname>
+			<dateofbirth>1990-11-11</dateofbirth>
+			<salary>1100</salary>
+		</staff>
+		<staff id="5" category="employee">
+			<firstname>Maciej</firstname>
+			<lastname>Zawadzki</lastname>
+			<dateofbirth>1994-12-14</dateofbirth>
+			<salary>1100.50</salary>
+		</staff>
+		<staff id="6" category="employee">
+			<firstname>Kamil</firstname>
+			<lastname>Różdzka</lastname>
+			<dateofbirth>1993-03-23</dateofbirth>
+			<salary>13000</salary>
+		</staff>
+		<staff id="7" category="employee">
+			<firstname>Patryk</firstname>
+			<lastname>Jurek</lastname>
+			<dateofbirth>1993-09-10</dateofbirth>
+			<salary>1400</salary>
+		</staff>
+		<staff id="8" category="employee">
+			<firstname>Ewelina</firstname>
+			<lastname>Jurand</lastname>
+			<dateofbirth>1991-06-02</dateofbirth>
+			<salary>6900</salary>
+		</staff>
+		<staff id="1" category="employee">
+			<firstname>Adrian</firstname>
+			<lastname>Borkowski</lastname>
+			<dateofbirth>1991-02-20</dateofbirth>
+			<salary>10000.99</salary>
+		</staff>
+	</company>
+
